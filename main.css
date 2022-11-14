@@ -9,8 +9,7 @@ body {
   height: 100vh;
   justify-content: center;
   align-items: center;
-  /* background: #212121; */
-  background: #fbdba0;  
+  background: #212121;
   overflow: hidden;
 }
 main {
