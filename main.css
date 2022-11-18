@@ -127,7 +127,7 @@ header .theory::before {
 }
 /* Header End */
 .container {
-  width: 100%;
+  width: 107%;
   height: auto;
   display: flex;
   justify-content: flex-start;
